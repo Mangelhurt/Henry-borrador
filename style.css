@@ -1,0 +1,10 @@
+.mi-imagen {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+body {
+    background-color: #fff8dc;
+    font-family: Arial,sans-serif;
+}
